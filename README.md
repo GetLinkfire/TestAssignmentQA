@@ -14,7 +14,7 @@ Among many things, some of the most important features of the landing pages are 
 - Display the available music services and localised content based on the users geo-location. 
 - Track and store events happening on the landing page, such as visits, interactions and click-throughs.
 
-### task
+## Task
 As a newly hired QA Engineer at Linkfire, your task is to make a plan to ensure the product is stabile, secure and works at scale. Use the example above to describe as detailed as possible how you would assure quality in the delivery process and as part of reliability monitoring.
 
 
