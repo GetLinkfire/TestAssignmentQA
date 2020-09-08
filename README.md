@@ -9,7 +9,7 @@ Examples of linkfire links:
 https://lnk.to/mc5bnvVR
 
 Among many things, some of the most important features of the landing pages are to:
-- Ensure that privacy poilicies are enforced and consent is requested from users when necessary.
+- Ensure that privacy policies are enforced and consent is requested from users when necessary.
 - Display the available music services and localised content based on the users geo-location. 
 - Track and store events happening on the landing page, such as visits, interactions and click-throughs.
 
