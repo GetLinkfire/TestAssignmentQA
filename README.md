@@ -1,5 +1,4 @@
 # QA Engineer Test Assignment
-Test assignment for QA Developer interviews
 
 The purpose of this test assignment is to work as a foundation for a conversation around how you work and approach problems as a QA engineer. Please focus on how you would solve it and why. If there are things that are unclear either reach out to us to clarify or feel free to make some assumptions where necessary.
 
