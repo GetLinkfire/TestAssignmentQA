@@ -35,5 +35,5 @@ You will have 10 minutes present your plan in a format of your choice, where we 
 
 ### 3. Testing 
 - How would you approach testing for the landing page in the example above? 
-- What are the considerations you have when deciding on a test strategy?
+- What are the considerations you have taken when deciding on a test strategy?
 
