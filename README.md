@@ -26,8 +26,8 @@ As a newly hired Senior QA Engineer at Linkfire, your task is to present a plan 
 You will have 10 minutes present your plan in a format of your choicce, where we would like to hear your thoughts on the topics:
 
 ### 1. Assessing quality
-- How do you prioritise between quality initiatives?
-- What are criterias for a stabile reliable product?
+- What are criterias for a stabile reliable product? 
+- How do you prioritise between quality initiatives? 
 
 ### 2. Change process
 - Describe where in the change process you quality is assured and how.
