@@ -5,7 +5,7 @@ The purpose of this test assignment is to work as a foundation for a conversatio
 We are not expecting you to spend more than 2 hours prepare.
 
 ## Case
-Linkfire is a platform where artists and other music marketeers can create links to promote their music. The landingpages monthly serve millions of users and has to consistently drive music fans to discover and consume music and other music related content such as merchandise and concert tickets.
+Linkfire is a platform where artists and other music marketeers can create links to promote their music. The landingpages monthly serve millions of users and have to consistently drive music fans to discover and consume music and other music related content such as merchandise and concert tickets.
 
 Example of a linkfire link:
 https://lnk.to/mc5bnvVR
