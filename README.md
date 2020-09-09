@@ -30,7 +30,7 @@ You will have 10 minutes present your plan in a format of your choice, where we 
 - How do you prioritise between quality initiatives? 
 
 ### 2. Change process
-- Describe where in the change process you quality is assured and how.
+- Describe where in the change process quality is assured and how.
 - Who is responsible for what parts of that process?
 
 ### 3. Testing 
