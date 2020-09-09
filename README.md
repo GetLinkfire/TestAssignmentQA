@@ -25,15 +25,15 @@ As a newly hired Senior QA Engineer at Linkfire, your task is to present a plan 
 
 You will have 10 minutes present your plan, where we would like to hear your thoughts on the below topics.
 
-### 1. How to you assess quality?
+### 1. Assessing quality
 - How do you prioritise between quality initiatives?
 - What are criterias for a stabile reliable product?
 
 ### 2. Change process
-- Describe where in the change process you quality is assured and how?
+- Describe where in the change process you quality is assured and how.
 - Who is responsible for what parts of that process?
 
 ### 3. Testing 
-- How would you approach testing for the landing page in the example above. 
+- How would you approach testing for the landing page in the example above? 
 - What are the considerations you have when deciding on a test strategy?
 
