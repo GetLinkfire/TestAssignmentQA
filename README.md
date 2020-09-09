@@ -23,7 +23,7 @@ There are three teams involved in the change process, where responsibilities are
 ## Presentation
 As a newly hired Senior QA Engineer at Linkfire, your task is to present a plan to ensure the product is stabile, secure and works at scale. Use the example above to describe how you would assure quality in the delivery process and as part of reliability monitoring.
 
-You will have 10 minutes present your plan, where we would like to hear your thoughts on the below topics.
+You will have 10 minutes present your plan in a format of your choicce, where we would like to hear your thoughts on the topics:
 
 ### 1. Assessing quality
 - How do you prioritise between quality initiatives?
